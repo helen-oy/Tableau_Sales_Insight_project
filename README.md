@@ -1,3 +1,9 @@
+**How to Open the Tableau Dashboard**
+- Download the .twbx file from this repository.
+
+- Install Tableau Desktop or Tableau Reader (free viewer).
+
+- Open the .twbx file using Tableau Desktop or Tableau Reader to explore the interactive dashboard.
 
 **Project overview:** This is a personal project to build a dashboard that portrays revenue, sales, customer and products insight from a fictional car dealership company data set with over 150,000 transactions.
 
